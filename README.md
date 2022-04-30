@@ -2,14 +2,14 @@
 A collection of algorithms 👨🏽‍💻
 Algorithms & data structures project
 
-<h4>Data Structures</h4>
-Dynamic Array<br>
-Dynamic array (integer only, fast)<br>
-Dynamic array (generic)<br>
-<br><h5> Linked List</h5>
-<br><h5> Array List</h5>
-<br> <h5> Queue </h5>
-<>Queue (integer only, fixed size, fast)
+<h4> Data Structures</h4>
+<br>Dynamic Array
+<br>Dynamic array (integer only, fast)
+<br>Dynamic array (generic) <br>
+<h5> Linked List</h5>
+<h5> Array List</h5>
+<h5> Queue </h5>
+Queue (integer only, fixed size, fast)
 Queue (linked list, generic)
 <h4>Dynamic Programming Classics</h4>
 <br>Coin change problem - O(nW)
