@@ -18,8 +18,7 @@ Queue (linked list, generic)
 <br>
 <br> Maximum contiguous subarray - O(n)
 <br> Longest Common Subsequence (LCS) - O(nm)
-<br> Longest Increasing Subsequence (LIS) - O(n<sup>2)
-<br> Longest Palindrome Subsequence (LPS) -  O(n<sup>2)
-<br> Traveling Salesman Problem (dynamic programming, iterative) - O(n<sup>2)
-<br> Traveling Salesman Problem (dynamic programming, recursive) -  O(n<sup>2)
-<br> Minimum Weight Perfect Matching (iterative, complete graph) -  O(n<sup>2)
+<br> Longest Increasing Subsequence (LIS) - O(n<sup>2)<br> 
+<br> Longest Palindrome Subsequence (LPS) - O(n<sup>2)<br> 
+<br> Traveling Salesman Problem (dynamic programming, iterative) - O(n<sup>2)<br> 
+<br> Minimum Weight Perfect Matching (iterative, complete graph) -  O(n<sup>2)<br> 
